@@ -6,7 +6,7 @@ description: |
 website: https://github.com/satheeshkumarf/bitrise-step-executexcuitestonbrowserstack
 source_code_url: https://github.com/satheeshkumarf/bitrise-step-executexcuitestonbrowserstack
 support_url: https://github.com/satheeshkumarf/bitrise-step-executexcuitestonbrowserstack/issues
-published_at: 2020-06-02T17:10:11.118651+04:00
+published_at: 2020-06-02T21:47:16.962459+04:00
 source:
   git: https://github.com/satheeshkumarf/bitrise-step-executexcuitestonbrowserstack.git
   commit: b9a3c10ea34c34e84d4831f320c48c53f7d54d64
